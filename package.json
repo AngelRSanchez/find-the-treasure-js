@@ -1,0 +1,27 @@
+{
+  "name": "find-treasure",
+  "version": "1.0.0",
+  "description": "Juego sencillo de encuentra el tesoro con javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelRSanchez/find-the-treasure-js.git"
+  },
+  "keywords": [
+    "find",
+    "treasure",
+    "javascript",
+    "git",
+    "github",
+    "html5"
+  ],
+  "author": "AngelRSanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelRSanchez/find-the-treasure-js/issues"
+  },
+  "homepage": "https://github.com/AngelRSanchez/find-the-treasure-js#readme"
+}
